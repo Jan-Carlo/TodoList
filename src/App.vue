@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-main>
-      <TodoList />
+      <TodoList/>
     </v-main>
   </v-app>
 </template>
