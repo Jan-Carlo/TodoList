@@ -1,4 +1,3 @@
-Jelli Cagampang Uayan
 <template>
   <v-app>
     <v-main>
